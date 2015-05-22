@@ -1,0 +1,23 @@
+{
+  "name": "angular-restmod-dotnet-style",
+  "version": "1.0.0",
+  "authors": [
+    "Tamas Pap <tamas.pap@lateral-inc.com>"
+  ],
+  "description": ".NET API style for Angular Restmod",
+  "license": "MIT",
+  "homepage": "https://github.com/tamaspap/angular-restmod-dotnet-style",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amaspap/angular-restmod-dotnet-style.git"
+  },
+  "main": "./dotnet.js",
+  "dependencies": {
+    "underscore.string": "~3.0.3",
+    "angular-inflector": "~0.2.0"
+  },
+  "devDependencies": {
+    "angular": "*",
+    "angular-mocks": "*"
+  }
+}
